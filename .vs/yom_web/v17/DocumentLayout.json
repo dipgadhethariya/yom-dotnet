@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\yom_web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\views\\home\\blog_single.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\views\\home\\blog_single.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\models\\contentslidermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\models\\contentslidermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|c:\\users\\admin\\source\\repos\\yom_web\\yom_web\\views\\admin\\add_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{499BBF99-272D-431E-A2C8-71DA34A39CA5}|yom_web\\yom_web.csproj|solutionrelative:yom_web\\views\\admin\\add_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "yom_web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "yom_web\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:44:01.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "yom_web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "yom_web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEsAAAAABAQAAADAv1UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:39:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "yom_web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "yom_web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAMTMzM3MvwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T05:34:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blog_single.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Views\\Home\\blog_single.cshtml",
+              "RelativeDocumentMoniker": "yom_web\\Views\\Home\\blog_single.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Views\\Home\\blog_single.cshtml",
+              "RelativeToolTip": "yom_web\\Views\\Home\\blog_single.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T05:32:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add_profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Views\\Admin\\add_profile.cshtml",
+              "RelativeDocumentMoniker": "yom_web\\Views\\Admin\\add_profile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Views\\Admin\\add_profile.cshtml",
+              "RelativeToolTip": "yom_web\\Views\\Admin\\add_profile.cshtml",
+              "ViewState": "AQIAACMAAABgZ2ZmZiYwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T05:27:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profilemodel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Models\\profilemodel.cs",
+              "RelativeDocumentMoniker": "yom_web\\Models\\profilemodel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Models\\profilemodel.cs",
+              "RelativeToolTip": "yom_web\\Models\\profilemodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:26:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contentslidermodel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Models\\contentslidermodel.cs",
+              "RelativeDocumentMoniker": "yom_web\\Models\\contentslidermodel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\yom_web\\yom_web\\Models\\contentslidermodel.cs",
+              "RelativeToolTip": "yom_web\\Models\\contentslidermodel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:26:43.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

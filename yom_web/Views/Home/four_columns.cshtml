@@ -1,0 +1,51 @@
+﻿<section class="page-heading wow fadeIn" data-wow-duration="1.5s" style="background-image: url(~/filesimages/01-heading.jpg)">
+	<div class="container">
+		<div class="page-name">
+			<h1>Latest Photos</h1>
+			<span>Lovely layout of heading</span>
+		</div>
+	</div>
+</section>
+
+<section class="portfolio on-portfolio">
+	<div class="container">
+		<div class="col-sm-12 text-center">
+			<div id="projects-filter">
+				<a href="#" data-filter="*" class="active">Show All</a>
+				<a href="#" data-filter=".furniture">Furniture</a>
+				<a href="#" data-filter=".wallpaper">Wallpaper</a>
+				<a href="#" data-filter=".nature">Nature</a>
+				<a href="#" data-filter=".branding">Branding</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="row" id="portfolio-grid">
+				@{
+					foreach (System.Data.DataRow dr in ViewBag.ds2.Rows)
+					{
+						<div class="item col-md-4 col-sm-6 col-xs-12 furniture">
+							<figure>
+								<img alt="1-image" src="~/img/@dr["img"].ToString()">
+								<figcaption>
+									<h3>@dr["title"].ToString()</h3>
+									<p>@dr["des"].ToString()</p>
+								</figcaption>
+							</figure>
+						</div>
+					}
+				}
+				
+			</div>
+		</div>
+		<div class="col-md-12">
+			<div class="portfolio-page-nav text-center">
+				<ul>
+					<li><a href="#" class="current">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
